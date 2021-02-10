@@ -1,5 +1,5 @@
 {
-  "name": "auto-reboot",
+  "name": "vue-auto-reboot",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
